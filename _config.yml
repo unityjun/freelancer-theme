@@ -4,8 +4,7 @@ name: unityjun
 skills: Junior Unity3D Developer - Junior CSharp Developer- Junior Java Developer
 email: artur.rakhmatulin@gmail.com
 pic: bio-photo.jpg #/img/NameImgFile 256-256
-url: http://localhost:4000
-#https://unityjun.github.io
+url: https://unityjun.github.io #https://unityjun.github.io
 description: "This site is my portfolio."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
